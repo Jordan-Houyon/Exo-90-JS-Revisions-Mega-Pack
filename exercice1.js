@@ -1,4 +1,5 @@
 mafonction();
+
 let nomVoiture="Peugeot";
 let x = 50;
 
@@ -84,7 +85,6 @@ for(let i = 0; i < 10; i++){
 }
 
 let fruits = ["pomme","banane","poire"]
-
 
 for(let i = 0; i < fruits.length; i++){
     console.log(fruits[i])
